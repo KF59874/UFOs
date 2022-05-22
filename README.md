@@ -14,6 +14,7 @@ The purpose of this project, is to build a website offering people a database to
 - Shape 
 
 Here is a visualization of the search criteria on the website: 
+
 ![Filters](resources/search.PNG)
 
 To search for a UFO sightings, simply enter the appropriate information in the search criteria field. Information can be added to one field alone, or to mulitple to narrow the results. Please note the different formats required for each field:
@@ -26,8 +27,11 @@ To search for a UFO sightings, simply enter the appropriate information in the s
 #### Example: 
 1. Without any search criteria filled in, the entire database is listed. This can be narrowed down by including information. 
 2. Adding a field, for example 'Enter Date' will narrow the search results automatically.
+
 ![Filter added: Date](resources/date.PNG)
+
 3. The results can further be filtered by adding more search criterias, in this the 'State' was also updated. 
+
 ![Filtered Data](resources/filter.PNG)
 
 ## Summary:
